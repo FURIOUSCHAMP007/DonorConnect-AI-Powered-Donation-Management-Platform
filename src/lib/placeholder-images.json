@@ -1,0 +1,34 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-image",
+      "description": "A diverse group of smiling people, representing community and donation.",
+      "imageUrl": "https://images.unsplash.com/photo-1553989577-14e950184619?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjb21tdW5pdHklMjBkaXZlcnNlfGVufDB8fHx8MTc2ODQ1ODI5OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "community diverse"
+    },
+    {
+      "id": "map-placeholder",
+      "description": "A placeholder map showing a city with pins.",
+      "imageUrl": "https://images.unsplash.com/photo-1730317195705-8a265a59ed1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjaXR5JTIwbWFwfGVufDB8fHx8MTc2ODQzMjI2Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "city map"
+    },
+    {
+      "id": "user-avatar-1",
+      "description": "Avatar for a sample user.",
+      "imageUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3Njg0NTYzODZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "blood-drive-map",
+      "description": "A map showing locations for blood drives.",
+      "imageUrl": "https://images.unsplash.com/photo-1754299096083-e68d46d44927?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjaXR5JTIwbWFwJTIwcGluc3xlbnwwfHx8fDE3Njg0NjIxMjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "city map pins"
+    },
+    {
+      "id": "campaign-banner",
+      "description": "A banner for a donation campaign.",
+      "imageUrl": "https://images.unsplash.com/photo-1472653431158-6364773b2a56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjb21tdW5pdHklMjBldmVudHxlbnwwfHx8fDE3Njg0NjIxMjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "community event"
+    }
+  ]
+}
