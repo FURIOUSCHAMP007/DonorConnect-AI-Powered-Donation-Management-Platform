@@ -1,6 +1,5 @@
 # DonorConnect
 
-![Hero Image](https://images.unsplash.com/photo-1553989577-14e950184619?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjb21tdW5pdHklMjBkaXZlcnNlfGVufDB8fHx8MTc2ODQ1ODI5OXww&ixlib=rb-4.1.0&q=80&w=1080)
 
 **DonorConnect** is a revolutionary platform that uses AI to optimize the blood, organ, and tissue donation process, ensuring critical supplies are always available. It provides a seamless connection between donors, hospitals, and patients in need.
 
